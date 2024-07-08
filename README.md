@@ -2,6 +2,10 @@
 
 ## アプリ名： 「YouKnow議員」
 ※「You know」 = 「有能」
+
+<URL>
+https://youknow.dev-ctable.com/members?municipality_id=2
+
 ## アプリ概要
 議員の議会での活動状況を可視化し、自分にとって「有能」な議員を可視化できるアプリ。
 
