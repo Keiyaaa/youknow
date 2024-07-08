@@ -23,7 +23,6 @@ https://youknow.dev-ctable.com/members?municipality_id=2
 https://xd.adobe.com/view/8334544a-9f42-47bd-ba69-c23ebdac9455-d667/
 
 ### youtube
-・ハッカソン 
 https://www.youtube.com/watch?v=TiiDAus5tUk
 
 
