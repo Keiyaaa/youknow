@@ -23,6 +23,8 @@ https://youknow.dev-ctable.com/members?municipality_id=2
 ・生成AIでダイジェストで議会の様子をまとて図などを盛り込んでもっとシンプルでわかりやすい議会頼りを作成する。
 ・助成金や補助金などユーザーの属性に合わせてプッシュ通知を送れるようにする.
 
+### 資料
+https://docs.google.com/presentation/d/15XxQH9sANOlh_9teYECm-WZqQ7t7TWl8/edit#slide=id.g278fea1d40f_0_231
 
 ### 画面遷移図
 https://xd.adobe.com/view/8334544a-9f42-47bd-ba69-c23ebdac9455-d667/
